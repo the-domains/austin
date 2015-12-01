@@ -1,7 +1,7 @@
 name: Austin
 favicon: null
-layout_spectrum: 0.16002314700745046
-typography_spectrum: 0.1162483838852495
+layout_spectrum: 0
+typography_spectrum: 0.56434
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.12472950434312224
-  lightness: 0.13858451531268656
-  saturation: 0.3130046068690717
-  rhythmicContrast: 0.5523356806952506
+    - '#f4fcff'
+    - '#010000'
+    - '#5a6b7e'
+    - '#90a2b0'
+    - '#cfcfcf'
+  brandStrength: 0.5
+  lightness: 0.125
+  saturation: 0.75
+  rhythmicContrast: 0
 purpose: []
